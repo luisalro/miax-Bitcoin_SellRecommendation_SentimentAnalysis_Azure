@@ -6,6 +6,10 @@ Check out his LinkedIn profile.
 
 ### Introduction
 
+The cloud Infrastructure as a Service (IaaS) market continues to consolidate as customers and providers push for more security, innovation and scalability. According to Gartner, AWS is evaluated as the leader in cloud IaaS with the highest score in both axes of measurement, ability to execute and completeness of vision.
+
+To carry out this lab, we chose Microsoft Azure as a cloud tool due to its manageability, easy integration and low cost. Likewise, it is an intuitive tool that facilitates the work of any beginner in the world of cloud computing and artificial intelligence.
+
 ### Instructions
 
 we will use different services offered by Microsoft Azure. We will create a series of Logic Apps to ingest sentiment data on Twitter for the Bitcoin hashtag and the prices of the cryptocurrency itself. On the page https://www.blockchain.com/api/exchange_rates_api we can obtain the exchange values ​​of said cryptocurrency in real time.
