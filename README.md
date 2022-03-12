@@ -19,3 +19,4 @@ Subsequently, we will use Microsoft Azure Machine Learning Studio (classic) with
 ### Deliverable
 
 A Microsoft Word file that contains the steps followed to carry out the lab.
+Note: the file is written in Spanish.
