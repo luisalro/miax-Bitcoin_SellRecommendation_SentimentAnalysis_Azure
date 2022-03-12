@@ -17,3 +17,5 @@ we will use different services offered by Microsoft Azure. We will create a seri
 Subsequently, we will use Microsoft Azure Machine Learning Studio (classic) with which we will implement a linear regression model to predict the price of Bitcoin based on the correlation between the sentiment expressed towards the cryptocurrency on Twitter and its exchange value. Once we obtain the prediction of the model, sales recommendations will be made once it is detected that the cryptocurrency is overvalued compared to the market value. These recommendations will be sent via SMS to our mobile phone using the Trilio text messaging service (https://www.trilio.io).
 
 ### Deliverable
+
+A Microsoft Word file that contains the steps followed to carry out the lab.
